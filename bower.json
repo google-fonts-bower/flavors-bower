@@ -1,0 +1,17 @@
+{
+    "name": "flavors-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sideshow"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/flavors-bower.git"
+    },
+    "description": "Flavors font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
